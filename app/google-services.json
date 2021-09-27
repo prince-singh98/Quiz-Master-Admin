@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "962927424221",
+    "firebase_url": "https://myquiz-eee7e.firebaseio.com",
+    "project_id": "myquiz-eee7e",
+    "storage_bucket": "myquiz-eee7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962927424221:android:2987afc78476cbfa0fa134",
+        "android_client_info": {
+          "package_name": "app.example.myquizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962927424221-lqrh1f38tf89r8joi78jjtpvh0nk0vch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.example.myquizapp",
+            "certificate_hash": "70f9f2465b2e6da30bde3ab6da9c4afa8c15d0c9"
+          }
+        },
+        {
+          "client_id": "962927424221-rlpn4c159315lfh3900fdp6u6sf3cvr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzV2Fc4iivt3bZz4tnydGxpcrar6_GC5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962927424221-rlpn4c159315lfh3900fdp6u6sf3cvr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962927424221:android:7ae27be73aa1740f0fa134",
+        "android_client_info": {
+          "package_name": "app.example.quizadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962927424221-f7gs6reh9s989fq9eb47ood1jqvr8560.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.example.quizadmin",
+            "certificate_hash": "70f9f2465b2e6da30bde3ab6da9c4afa8c15d0c9"
+          }
+        },
+        {
+          "client_id": "962927424221-rlpn4c159315lfh3900fdp6u6sf3cvr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzV2Fc4iivt3bZz4tnydGxpcrar6_GC5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962927424221-rlpn4c159315lfh3900fdp6u6sf3cvr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
